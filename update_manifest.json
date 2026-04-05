@@ -1,38 +1,19 @@
 {
-    "version": "2.2.2",
-    "download_url": "https://raw.githubusercontent.com/uponcursed/klmacro/main/VZUP.exe",
+    "version": "2.3.0",
+    "download_url": "https://raw.githubusercontent.com/uponcursed/klmacro/main/VZUP_2.3.0.exe",
     "notes": [
-        "Added an in-app update log panel with version history.",
-        "Update Center now renders hosted changelog entries from the manifest.",
-        "Published a fresh update feed so 2.2.1 users can upgrade."
+        "Rebuilt VZUP as a Macro Hub with King Legacy and Fisch startup choices.",
+        "Fixed the overlapping layout with a roomier page shell, stacked cards, and game tabs.",
+        "Added terms acceptance, King Legacy webhook alerts, Fisch bridge sync, and test webhook actions."
     ],
     "history": [
         {
-            "version": "2.2.2",
+            "version": "2.3.0",
             "date": "2026-04-05",
             "notes": [
-                "Added an in-app update log panel with version history.",
-                "Update Center now renders hosted changelog entries from the manifest.",
-                "Published a fresh update feed so 2.2.1 users can upgrade."
-            ]
-        },
-        {
-            "version": "2.2.1",
-            "date": "2026-04-05",
-            "notes": [
-                "Brand refresh with new VZUP logo and icon.",
-                "Custom theme dropdown replaced the broken selector.",
-                "Added update prompts and Windows self-update flow.",
-                "Shipped with a live GitHub-based update feed."
-            ]
-        },
-        {
-            "version": "2.2.0",
-            "date": "2026-04-05",
-            "notes": [
-                "Rebuilt the UI as VZUP around the original fishing logic.",
-                "Added themes, fish counter, runtime stats, and cleaner controls.",
-                "Included one-time warning and Discord invite flow."
+                "Rebuilt VZUP as a Macro Hub with King Legacy and Fisch startup choices.",
+                "Fixed the overlapping layout with a roomier page shell, stacked cards, and game tabs.",
+                "Added terms acceptance, King Legacy webhook alerts, Fisch bridge sync, and test webhook actions."
             ]
         }
     ]
