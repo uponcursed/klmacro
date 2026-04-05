@@ -1,0 +1,10 @@
+{
+    "version": "2.2.1",
+    "download_url": "https://raw.githubusercontent.com/uponcursed/klmacro/main/VZUP.exe",
+    "notes": [
+        "Brand refresh with new VZUP logo and icon.",
+        "Custom theme dropdown replaced the broken selector.",
+        "Added update prompts and Windows self-update flow.",
+        "Shipped with a live GitHub-based update feed."
+    ]
+}
